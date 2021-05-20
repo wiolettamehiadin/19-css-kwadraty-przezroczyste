@@ -2,26 +2,27 @@ body {
     background-color: #f5f5dd ;
 }
 
-#square1 {
-    background-color: #000000 ;
+.size {
     width: 150px;
     height: 150px;
+}
+
+#square1 {
+    background-color: #000000 ;
+    margin: 10px;
 }
 
 #square2 {
     background-color: rgba(0, 0, 0, 0.7);
-    width: 150px;
-    height: 150px;
+    margin: 10px;
 }
 
 #square3 {
     background-color: rgba(0, 0, 0, 0.5);
-    width: 150px;
-    height: 150px;
+    margin: 10px;
 }
 
 #square4 {
     background-color: rgba(0, 0, 0, 0.2);
-    width: 150px;
-    height: 150px;
+    margin: 10px;
 }
